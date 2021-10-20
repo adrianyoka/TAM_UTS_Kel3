@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Salam Indonesia</string>
+    <string name="name_prov" translatable="false">Nama Provinsi</string>
+    <string name="lorem" translatable="false">lorem ipsum dolor sit amet</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="button">Show Location</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="show_location">Show Location</string>
+
+    <string-array name="data_name">
+        <item>Nanggroe Aceh Darussalam</item>
+        <item>Sumatera Utara</item>
+        <item>Riau</item>
+        <item>Kepulauan Riau</item>
+        <item>Jambi</item>
+        <item>Bengkulu</item>
+        <item>Sumatera Barat</item>
+        <item>Sumatera Selatan</item>
+        <item>Bangka Belitung</item>
+        <item>Lampung</item>
+        <item>Banten</item>
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Daerah Istimewa Yogyakarta</item>
+        <item>Jawa Timur</item>
+        <item>Kalimantan Utara</item>
+        <item>Kalimantan Timur</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Tengah</item>
+        <item>Kalimantan Selatan</item>
+        <item>Bali</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Gorontalo</item>
+        <item>Sulawesi Utara</item>
+        <item>Sulawesi Tengah</item>
+        <item>Sulawesi Barat</item>
+        <item>Sulawesi Tenggara</item>
+        <item>Sulawesi Selatan</item>
+        <item>Maluku Utara</item>
+        <item>Maluku</item>
+        <item>Papua</item>
+        <item>Papua Barat</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>sebuah provinsi di Indonesia yang ibu kotanya berada di Banda Aceh.Aceh merupakan salah satu provinsi di Indonesia yang diberi status sebagai daerah istimewa dan juga diberi kewenangan otonomi khusus.</item>
+        <item>sebuah provinsi di Indonesia yang terletak di bagian Utara Pulau Sumatra.Provinsi ini beribu kota di Kota Medan.Sumatra Utara merupakan provinsi dengan jumlah penduduk terbesar keempat di Indonesia, setelah provinsi Jawa Barat, Jawa Timur, dan Jawa Tengah.</item>
+        <item>adalah sebuah provinsi di Indonesia yang terletak di bagian tengah pantai timur pulau Sumatra. Wilayah pesisirnya berbatasan dengan Selat Melaka.Ibu kota dan kota terbesar Riau adalah Pekanbaru, dan kota besar lainnya adalah kota Dumai.</item>
+        <item>sebuah provinsi di Indonesia yang ibu kotanya berada di Tanjung Pinang.Provinsi ini termasuk provinsi kepulauan di Indonesia.</item>
+        <item>adalah sebuah provinsi di Indonesia yang terletak di pesisir timur di bagian tengah Pulau Sumatra, ibu kotanya berada di kota Jambi. Provinsi Jambi adalah nama provinsi di Indonesia yang ibu kotanya memiliki nama sama dengan provinsi, selain Bengkulu, Daerah Khusus Ibukota Jakarta, Daerah IstimewaYogyakarta, dan Gorontalo.</item>
+        <item>adalah sebuah provinsi yang berada di pulau Sumatra, Indonesia. Ibu kota provinsi Bengkulu ada di kota Bengkulu. Provinsi ini terletak di bagian Barat Daya Pulau Sumatra, yang berbatasan dengan provinsi Sumatra Barat, Jambi, Sumatra Selatan dan Lampung.</item>
+        <item>adalah sebuah provinsi di Indonesia yang terletak di Pulau Sumatra yang memiliki ibu kota Padang. Provinsi Sumatra Barat terletak sepanjang pesisir barat Sumatra bagian tengah, dataran tinggi Bukit Barisan di sebelah timur, dan sejumlah pulau di lepas pantainya seperti Kepulauan Mentawai.</item>
+        <item>adalah provinsi di Indonesia yang terletak di bagian Selatan pulau Sumatra. Ibu kota Sumatra Selatan berada di kota Palembang</item>
+        <item>adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau. Bangka Belitung terletak di bagian timur Pulau Sumatra, dekat dengan Provinsi Sumatra Selatan. Bangka Belitung dikenal sebagai daerah penghasil timah, memiliki pantai yang indah dan kerukunan antar etnis. Ibu kota provinsi ini ialah Pangkalpinang.</item>
+        <item>adalah sebuah provinsi paling Selatan di pulau Sumatra, Indonesia, dengan ibu kota atau pusat pemerintahan berada di kota Bandar Lampung. Provinsi ini memiliki dua kota yaitu kota Bandar Lampung dan kota Metro serta 13 kabupaten. Posisi provinsi Lampung secara geografis di sebelah Barat berbatasan dengan Samudra Hindia, di sebelah Timur dengan Laut Jawa, di sebelah Utara berbatasan dengan provinsi Sumatra Selatan, dan di sebelah Selatan berbatasan dengan Selat Sunda.</item>
+        <item>adalah sebuah provinsi di Pulau Jawa, Indonesia. Provinsi ini adalah provinsi paling barat di Pulau Jawa. Provinsi ini pernah menjadi bagian dari Provinsi Jawa Barat, tetapi provinsi ini menjadi wilayah pemekaran sejak tahun 2000, dengan keputusan Undang-Undang Nomor 23 Tahun 2000. Ibukota dan pusat pemerintahannya berada di Kota Serang.</item>
+        <item>adalah ibu kota negara dan kota terbesar di Indonesia. Jakarta merupakan satu-satunya kota di Indonesia yang memiliki status setingkat provinsi. Jakarta terletak di pesisir bagian barat laut Pulau Jawa. Dahulu pernah dikenal dengan beberapa nama di antaranya Sunda Kelapa, Jayakarta, dan Batavia.</item>
+        <item>adalah sebuah provinsi di Indonesia, ibu kotanya berada di kota Bandung.</item>
+        <item>adalah sebuah provinsi Indonesia yang terletak di bagian tengah Pulau Jawa. Ibu kotanya adalah Semarang. Provinsi ini berbatasan dengan Provinsi Jawa Barat di sebelah barat, Samudra Hindia dan Daerah Istimewa Yogyakarta di sebelah selatan, Jawa Timur di sebelah timur, dan Laut Jawa di sebelah utara.</item>
+        <item>adalah Daerah Istimewa setingkat provinsi di Indonesia yang merupakan peleburan Negara Kesultanan Yogyakarta dan Negara Kadipaten Paku Alaman. Daerah Istimewa Yogyakarta terletak di bagian selatan Pulau Jawa, dan berbatasan dengan Provinsi Jawa Tengah dan Samudera Hindia.</item>
+        <item>adalah sebuah provinsi di bagian timur Pulau Jawa, Indonesia. Ibu kota Jawa Timur ialah kota Surabaya. Jawa Timur memiliki wilayah terluas di antara 6 provinsi di Pulau Jawa, dan memiliki jumlah penduduk terbanyak kedua di Indonesia setelah Jawa Barat.Jawa Timur berbatasan dengan Laut Jawa di utara, Selat Bali di timur, Samudra Hindia di selatan, serta Provinsi Jawa Tengah di barat. Wilayah Jawa Timur juga meliputi Pulau Madura, Pulau Bawean, Pulau Kangean, Kepulauan Kangean serta sejumlah pulau-pulau kecil di Laut Jawa yakni: (Kepulauan Masalembu), Samudera Hindia, (Pulau Sempu dan Nusa Barung).</item>
+        <item>adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Kalimantan. Provinsi ini berbatasan langsung dengan negara tetangga Malaysia, yaitu Negara Bagian Sabah dan Sarawak. Pusat pemerintahan Kalimantan Utara saat ini berada di Kota Tanjung Selor, bersama dengan pusat pemerintahan Kabupaten Bulungan.Saat ini Kalimantan Utara merupakan provinsi termuda Indonesia yang resmi disahkan menjadi provinsi dalam rapat paripurna DPR pada tanggal 25 Oktober 2012 berdasarkan Undang-undang Nomor 20 Tahun 2012.</item>
+        <item>adalah sebuah provinsi Indonesia di Pulau Kalimantan bagian ujung timur yang berbatasan dengan Malaysia, Kalimantan Utara, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Barat, dan Sulawesi. Luas total Kaltim adalah 127.346,92 km² dan populasi sebesar 3.793.152 jiwa (2020).Kalimantan Timur merupakan wilayah dengan kepadatan penduduk terendah keempat di nusantara. Ibu kota provinsi ini adalah kota Samarinda.Provinsi Kalimantan Timur sebelum dimekarkan menjadi Kalimantan Utara merupakan provinsi terluas kedua di Indonesia setelah Papua, dengan luas 194.489 km persegi yang hampir sama dengan Pulau Jawa atau sekitar 6,8% dari total luas wilayah Indonesia.</item>
+        <item>adalah sebuah provinsi di Indonesia, yang berada di pulau Kalimantan, dengan ibu kota atau pusat pemerintahan berada di kota Pontianak.Luas wilayah provinsi Kalimantan Barat adalah 147.307,00 km². Kalimantan Barat merupakan provinsi terluas keempat di Indonesia setelah Papua, Kalimantan Timur dan Kalimantan Tengah.Pada tahun 2020, penduduk Kalimantan Barat berjumlah 5.414.390 jiwa, dengan kepadatan 37 jiwa/km2.Kalimantan Barat berbatasan darat dengan negara bagian Sarawak, Malaysia.Walaupun sebagian kecil wilayah Kalimantan Barat merupakan perairan laut, akan tetapi Kalimantan Barat memiliki puluhan pulau besar dan kecil (sebagian tidak berpenghuni) yang tersebar sepanjang Selat Karimata dan Laut Natuna yang berbatasan dengan wilayah Provinsi Kepulauan Riau.</item>
+        <item>adalah salah satu provinsi di Indonesia yang terletak di Pulau Kalimantan. Ibu kotanya adalah Kota Palangka Raya. Berdasarkan sensus tahun 2010, provinsi ini memiliki populasi 2.202.599 jiwa, yang terdiri atas 1.147.878 laki-laki dan 1.054.721 perempuan. Data BPS Kalimantan Tengah tahun 2021 menunjukkan penduduk provinsi ini tahun 2020 bertambah menjadi 2.670.00.Kalimantan Tengah mempunyai 13 kabupaten dan 1 kota.</item>
+        <item>adalah salah satu provinsi yang ada di Indonesia yang terletak di pulau Kalimantan. Ibu kotanya provinsi Kalimantan Selatan adalah kota Banjarmasin. Provinsi ini merupakan rumah etnis Banjar dan memiliki luas 38.744,00 km²dengan populasi ditahun 2020 berjumlah 4.087.894 jiwa, dan wilayah administrasi terbagi menjadi 11 kabupaten dan 2 kota.</item>
+        <item>adalah sebuah provinsi di Indonesia yang ibu kotanya bernama Denpasar. Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara. Di awal kemerdekaan Indonesia, pulau ini termasuk dalam Provinsi Sunda Kecil yang beribu kota di Singaraja, dan kini terbagi menjadi 3 provinsi, yakni Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur.Pada tahun 2020, penduduk provinsi Bali berjumlah 4.317.404 jiwa, dengan kepadatan 747 jiwa/km2.Selain terdiri dari pulau Bali, wilayah provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu pulau Nusa Penida, pulau Nusa Lembongan, pulau Nusa Ceningan, Pulau Serangan, dan Pulau Menjangan. Secara geografis, Bali terletak di antara Pulau Jawa dan Pulau Lombok. Mayoritas penduduk Bali adalah pemeluk agama Hindu. Di dunia, Bali terkenal sebagai tujuan pariwisata dengan keunikan berbagai hasil seni-budayanya, khususnya bagi para wisatawan Jepang dan Australia. Bali juga dikenal dengan julukan Pulau Dewata dan Pulau Seribu Pura.</item>
+        <item>adalah sebuah provinsi di Indonesia yang meliputi bagian timur Kepulauan Nusa Tenggara. Provinsi ini memiliki ibu kota di Kota Kupang dan memiliki 22 kabupaten/kota. Provinsi ini berada di Sunda Kecil. Tahun 2020, penduduk provinsi ini berjumlah 5.325.566 jiwa, dengan kepadatan 111 jiwa/km2.Setelah pemekaran, Nusa Tenggara Timur adalah sebuah provinsi Indonesia yang terletak di bagian tenggara Indonesia. Provinsi ini terdiri dari beberapa pulau, antara lain pulau Flores, pulau Sumba, pulau Timor, pulau Alor, pulau Lembata, pulau Rote, pulau Sabu, pulau Adonara, pulau Solor, pulau Ende, pulau Komodo dan pulau Palue.Provinsi ini terdiri dari kurang lebih 1.200 pulau, tiga pulau utama di Nusa Tenggara Timur adalah Pulau Flores, Pulau Sumba dan Timor Belanda (biasa disebut Timor Barat).</item>
+        <item>ialah sebuah provinsi di Indonesia yang berada di bagian Barat Kepulauan Nusa Tenggara. Ibu kota provinsi ini berada di kota Mataram. Nusa Tenggara Barat memiliki 10 Kabupaten dan 2 Kota, termasuk kota Mataram. Pada tahun 2020, penduduk Nusa Tenggara Barat berjumlah 5.320.092 jiwa, dengan kepadatan 264 jiwa/km2. Pada awal kemerdekaan Indonesia, wilayah ini termasuk dalam wilayah Provinsi Sunda Kecil yang beribu kota di Singaraja. Kemudian, wilayah Provinsi Sunda Kecil dibagi menjadi 3 provinsi: Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur. Dua pulau terbesar di provinsi ini adalah Lombok yang terletak di barat dan Sumbawa yang terletak di timur.</item>
+        <item>adalah provinsi di Indonesia yang lahir pada tanggal 5 Desember 2000 dan memiliki ibu kota provinsi bernama sama yaitu, Kota Gorontalo. Sama halnya dengan ibu kotanya, Provinsi Gorontalo terkenal dengan julukan Serambi Madinah. Dalam catatan sejarah Indonesia, satu-satunya Presiden RI yang berasal dari Suku Gorontalo adalah Presiden Republik Indonesia ke-3, Prof. DR. Ing. B.J. Habibie, dari garis keturunan ayahnya yang memiliki marga Habibie, yaitu Alwi Abdul Jalil Habibie.Provinsi Gorontalo terletak pada Semenanjung Gorontalo di Pulau Sulawesi, tepatnya di bagian barat dari Provinsi Sulawesi Utara. Luas wilayah provinsi ini 12.435,00 km² dengan jumlah penduduk sebanyak 1.166.142 jiwa (2018), dengan laju pertumbuhan penduduk sebesar 0.91%.  Provinsi Gorontalo memiliki 77 kecamatan dengan jumlah total desa dan kelurahan sebanyak 732. Wilayah daratan dari provinsi Gorontalo sebagian besar merupakan perbukitan, pegunungan dengan ketinggian yang beragam serta sungai-sungai. Gorontalo juga memiliki pesisir pantai sepanjang 655,8 km.</item>
+        <item>adalah salah satu provinsi yang terletak di ujung utara Pulau Sulawesi, Indonesia, dengan ibu kota terletak di kota Manado. Sulawesi Utara atau Sulut berbatasan dengan Laut Maluku dan Samudera Pasifik di sebelah timur, Laut Maluku dan Teluk Tomini di sebelah selatan, Laut Sulawesi dan provinsi Gorontalo di sebelah barat, dan provinsi Davao del Sur (Filipina) di sebelah utara. Penduduk Sulawesi Utara pada tahun 2021 berjumlah 2.655.970 jiwa, dan luas wilayahnya adalah 13.892,47 km2. Sulawesi Utara memiliki kepulauan dengan jumlah pulau sebanyak 287 pulau dengan 59 di antaranya berpenghuni. Wilayah administratif Sulawesi Utara terbagi menjadi 4 kota dan 11 kabupaten dengan 1.664 desa/kelurahan. Sulawesi Utara terbagi menjadi dua zona yaitu zona selatan yang berupa dataran rendah dan dataran tinggi serta zona utara yang meliputi kepulauan. Zona ekonomi eksklusif Sulawesi Utara mencapai 190.000 km2 dengan pesisir pantai sepanjang 2.395,99 km dan luas hutan mencapai 701. 885 hektare. Wilayah Sulawesi Utara juga memiliki banyak gunung berapi, dikarenakan letaknya yang berada di tepian Lempeng Sunda.</item>
+        <item>adalah sebuah provinsi di bagian tengah Pulau Sulawesi, Indonesia. Ibu kota provinsi ini adalah Kota Palu. Luas wilayahnya 61.841,29 km², dan jumlah penduduk sebanyak 2.985.734 jiwa (2020).  Sulawesi Tengah memiliki wilayah terluas di antara semua provinsi di Pulau Sulawesi, dan memiliki jumlah penduduk terbanyak kedua di Pulau Sulawesi setelah provinsi Sulawesi Selatan.</item>
+        <item>adalah provinsi ke-33 dalam negara Indonesia yang dibentuk pada tahun 2004. Letak Sulawesi Barat di Pulau Sulawesi. Perbatasan wilayah Sulawesi Barat yaitu Sulawesi Tengah di bagian utara, Sulawesi Selatan di bagian Timur dan Selatan dan Selat Makassar di bagian Barat. Pada tahun 2020, penduduk Sulawesi Barat berjumlah 1.419.229 jiwa dengan kepadatan 85,00 jiwa/km2. Pembentukan provinsi Sulawesi Barat merupakan hasil pemekaran dari provinsi Sulawesi Selatan yang didasarkan pada Undang-Undang Nomor 26 Tahun 2004 yang disahkan oleh Presiden Republik Indonesia dan diresmikan oleh Menteri Dalam Negeri Republik Indonesia pada tanggal 5 Oktober 2004. Ibukota provinsi Sulawesi Barat adalah Kota Mamuju. Sulawesi Barat memiliki daratan dengan luas 16.937, 16 km2 dan lautan dengan luas 20.342 km2 serta pesisir pantai sepanjang 677 km. Jumlah kecamatan di Sulawesi barat sebanyak 69 dengan jumlah desa/kelurahan sebanyak 649.</item>
+        <item>adalah sebuah provinsi di Indonesia yang terletak bagian tenggara pulau Sulawesi dengan ibu kota Kendari. Provinsi Sulawesi Tenggara terletak di Jazirah Tenggara Pulau Sulawesi, secara geografis terletak di bagian selatan garis khatulistiwa serta mempunyai wilayah daratan seluas 38.140 km² (3.814.000 ha) dan perairan (laut) seluas 110.000 km² (11.000.000 ha).</item>
+        <item>adalah sebuah provinsi di Indonesia yang terletak di bagian selatan pulau Sulawesi. Pusat pemerintahan atau ibu kota provinsi berada di kota Makassar. Pada tahun 2020, penduduk Sulawesi Selatan berjumlah 9.073.509 jiwa, dengan kepadatan 194,22 jiwa/km². Indeks Pembangunan Manusia (IPM) Sulawesi selatan pada tahun 2020 yakni 71,93 (Urutan ke-12 di Indonesia), urutan ke dua di Sulawesi setelah provinsi Sulawesi Utara, yakni 72,93 (Urutan ke-6 di Indonesia).</item>
+        <item>merupakan provinsi bagian Timur Indonesia yang resmi terbentuk pada 4 Oktober 1999 yang sebelumnya menjadi kabupaten dari provinsi Maluku bersama dengan Halmahera Tengah, berdasarkan UU RI Nomor 46 Tahun 1999 dan UU RI Nomor Tahun 2003. Jumlah penduduk Maluku Utara pada tahun 2021 mencapai 1.316.973 jiwa, dengan kepadatan penduduk sebanyak 41 jiwa/km2. Saat awal pendirian Provinsi Maluku Utara, ibu kota ditempatkan di Kota Ternate berlokasi di kaki Gunung Gamalama dalam kurun waktu kurang lebih 11 tahun, hingga pada 4 Agustus 2010 setelah adanya masa transisi dan persiapan pembangunan, Maluku Utara memindahkan ibukota Maluku Utara ke Sofifi, salah satu kelurahan di Oba Utara, kota Tidore Kepulauan. Kelurahan Sofifi letaknya berada di Pulau Halmahera, pulau terbesar di Maluku Utara namun pemindahan tersebut ditolak oleh warga.</item>
+        <item>adalah sebuah provinsi yang meliputi bagian selatan Kepulauan Maluku, Indonesia. Provinsi ini berbatasan dengan Laut Seram di utara, Samudra Hindia dan Laut Arafura di selatan, Papua di timur, dan Sulawesi di barat.Ibu kota dan kota terbesarnya ialah kota Ambon. Provinsi Maluku berada di urutan ke-28 provinsi menurut jumlah penduduk di Indonesia, di mana pada tahun 2020, populasi provinsi Maluku berjumlah 1.848.923 jiwa. Sebelum masa penjajahan, Maluku menjadi poros perdagangan rempah dunia dengan cengkih dan pala sebagai barang dagangan utama. Hal ini membuat Maluku dijuluki sebagai "Kepulauan Rempah" hingga hari ini. Rakyat Maluku berdagang dengan para pedagang dari berbagai daerah di Nusantara maupun mancanegara seperti pedagang-pedagang Tionghoa, Arab, dan Eropa. Kekayaan rempah ini pun menjadi daya tarik bangsa-bangsa Eropa yang pada akhirnya menguasai Maluku, dimulai oleh Portugis dan terakhir Belanda.</item>
+        <item>adalah provinsi yang terletak di bagian tengah Pulau Papua atau bagian paling timur wilayah Papua milik Indonesia. Belahan timurnya merupakan negara Papua Nugini. Provinsi Papua sebelumnya bernama Irian Jaya yang mencakup seluruh wilayah Pulau Papua. Sejak tahun 2003 dibagi menjadi dua provinsi, dengan bagian timur tetap memakai nama Papua sedangkan bagian baratnya memakai nama Papua Barat (Pabar). Provinsi Papua memiliki luas 312.224,37 km2 dan merupakan provinsi terbesar dan terluas pertama di Indonesia.Provinsi Papua memiliki luas sekitar 312.224,37 km2, pulau Papua berada di ujung timur dari wilayah Indonesia, dengan potensi sumber daya alam yang bernilai ekonomis dan strategis, dan telah mendorong bangsa-bangsa asing untuk menguasai pulau Papua.</item>
+        <item>adalah sebuah provinsi Indonesia yang terletak di ujung barat Pulau Papua. Wilayah Papua Barat mencakup Semenanjung Domberai, Bomberai, Wondiwoi, serta Kepulauan Raja Ampat. Ibukota provinsi ini terletak di Manokwari dengan kota terbesarnya di Sorong. Provinsi ini dimekarkan dari Provinsi Papua melalui Undang-Undang Nomor 45 Tahun 1999. Pada awalnya pembentukan provinsi ini mendapatkan penolakan dari masyarakat sehingga implementasi dari pemekaran ini baru dilaksanakan melalui Instruksi Presiden Nomor 1 Tahun 2003.Walaupun pada 11 November 2004 Mahkamah Konstitusi menyatakan bahwa dasar hukum pembentukan Provinsi Irian Jaya Barat sudah tidak memiliki kekuatan hukum yang mengikat, namun keberadaan provinsi ini dinyatakan tetap sah.Berdasarkan Peraturan Pemerintah Nomor 24 Tahun 2007, nama Irian Jaya Barat diubah menjadi Papua Barat. Papua Barat sebagai pemekaran dari Provinsi Papua merupakan provinsi yang memiliki status otonomi khusus.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/logo_aceh</item>
+        <item>@drawable/logo_sumut</item>
+        <item>@drawable/logo_riau</item>
+        <item>@drawable/logo_kepri</item>
+        <item>@drawable/logo_jambi</item>
+        <item>@drawable/logo_bengkulu</item>
+        <item>@drawable/logo_sumbar</item>
+        <item>@drawable/logo_sumsel</item>
+        <item>@drawable/logo_babel</item>
+        <item>@drawable/logo_lampung</item>
+        <item>@drawable/logo_banten</item>
+        <item>@drawable/logo_jakarta</item>
+        <item>@drawable/logo_jabar</item>
+        <item>@drawable/logo_jateng</item>
+        <item>@drawable/logo_yogyakarta</item>
+        <item>@drawable/logo_jatim</item>
+        <item>@drawable/logo_kalut</item>
+        <item>@drawable/logo_kaltim</item>
+        <item>@drawable/logo_kalbar</item>
+        <item>@drawable/logo_kalteng</item>
+        <item>@drawable/logo_kalsel</item>
+        <item>@drawable/logo_bali</item>
+        <item>@drawable/logo_ntt</item>
+        <item>@drawable/logo_ntb</item>
+        <item>@drawable/logo_gorontalo</item>
+        <item>@drawable/logo_sulut</item>
+        <item>@drawable/logo_sulteng</item>
+        <item>@drawable/logo_sulbar</item>
+        <item>@drawable/logo_sulawesitenggara</item>
+        <item>@drawable/logo_sulsel</item>
+        <item>@drawable/logo_malut</item>
+        <item>@drawable/logo_maluku</item>
+        <item>@drawable/logo_papua</item>
+        <item>@drawable/logo_papuabarat</item>
+    </array>
+
+    <string-array name="data_suku">
+        <item>Aceh</item>
+        <item>Batak</item>
+        <item>Melayu</item>
+        <item>Suku Laut</item>
+        <item>Anak Dalam</item>
+        <item>Suku Enggano</item>
+        <item>Minangkabau</item>
+        <item>Palembang</item>
+        <item>Melayu</item>
+        <item>Lampung</item>
+        <item>Badui</item>
+        <item>Betawi</item>
+        <item>Sunda</item>
+        <item>Jawa</item>
+        <item>Jawa</item>
+        <item>Jawa</item>
+        <item>Berau</item>
+        <item>Paser</item>
+        <item>Dayak</item>
+        <item>Banjar</item>
+        <item>Banjar</item>
+        <item>Bali</item>
+        <item>Abui</item>
+        <item>Sasak</item>
+        <item>Gorontalo</item>
+        <item>Minahasa</item>
+        <item>Bugis</item>
+        <item>Mandar</item>
+        <item>Buton</item>
+        <item>Toraja</item>
+        <item>Lio</item>
+        <item>Ambon</item>
+        <item>Asmat</item>
+        <item>Asmat</item>
+    </string-array>
+
+    <string-array name="data_kepala">
+        <item>Nova Iriansyah</item>
+        <item>Edy Rahmayadi</item>
+        <item>Syamsuar</item>
+        <item>Ansar Ahmad</item>
+        <item>Hari Nur Cahya Murni (PLT)</item>
+        <item>Rohidin Mersyah</item>
+        <item>Mahyeldi</item>
+        <item>Herman Deru</item>
+        <item>Erzaldi Rosman Djohan</item>
+        <item>Arinal Djunaidi</item>
+        <item>Wahidin Halim</item>
+        <item>Anies Rasyid Baswedan</item>
+        <item>Ridwan Kamil</item>
+        <item>Ganjar Pranowo</item>
+        <item>Hamengkubawana X</item>
+        <item>Khofifah Indar Parawansa</item>
+        <item>Zainal Arifin Paliwang</item>
+        <item>Isran Noor</item>
+        <item>Sutarmidji</item>
+        <item>Sugianto Sabran</item>
+        <item>Safrizal ZA (Pejabat Gubernur)</item>
+        <item>I Wayan Koster</item>
+        <item>Viktor Laiskodat</item>
+        <item>Zulkieflimansyah</item>
+        <item>Rusli Habibie</item>
+        <item>Olly Dondokambey</item>
+        <item>Longki Djanggola</item>
+        <item>Ali Baal Masdar</item>
+        <item>Ali Mazi</item>
+        <item>Andi Sudirman Sulaiman (PLT)</item>
+        <item>Abdul Ghani Kasuba</item>
+        <item>Murad Ismail</item>
+        <item>Lukas Enembe</item>
+        <item>Dominggus Mandacan</item>
+    </string-array>
+
+    <string-array name="ibukota">
+        <item>Banda Aceh</item>
+        <item>Medan</item>
+        <item>Pekanbaru</item>
+        <item>Tanjung Pinang</item>
+        <item>Jambi</item>
+        <item>Bengkulu</item>
+        <item>Padang</item>
+        <item>Palembang</item>
+        <item>Bangka Belitung</item>
+        <item>Bandar Lampung</item>
+        <item>Serang</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Semarang</item>
+        <item>Yogyakarta</item>
+        <item>Surabaya</item>
+        <item>Tanjungselor</item>
+        <item>Samarinda</item>
+        <item>Pontianak</item>
+        <item>Palangkaraya</item>
+        <item>Banjarmasin</item>
+        <item>Denpasar</item>
+        <item>Kupang</item>
+        <item>Mataram</item>
+        <item>Gorontalo</item>
+        <item>Manado</item>
+        <item>Palu</item>
+        <item>Mamuju</item>
+        <item>Kendari</item>
+        <item>Makassar</item>
+        <item>Sofifi</item>
+        <item>Ambon</item>
+        <item>Jayapura</item>
+        <item>Manokwari</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="latitude">
+        <item>5.6736747</item>
+        <item>4.0759838</item>
+        <item>-0.2730885</item>
+        <item>0.9673785</item>
+        <item>-1.5079644</item>
+        <item>-3.7930029</item>
+        <item>-1.0010786</item>
+        <item>-2.7949287</item>
+        <item>-4.5473881</item>
+        <item>-5.4687932</item>
+        <item>-6.0451893</item>
+        <item>-6.1270268</item>
+        <item>-8.7212834</item>
+        <item>-2.8909989</item>
+        <item>-7.8032447</item>
+        <item>-7.2755338</item>
+        <item>2.1326392</item>
+        <item>-0.2677823</item>
+        <item>0.0063695</item>
+        <item>-2.7603883</item>
+        <item>-3.5244295</item>
+        <item>-8.1568408</item>
+        <item>4.8141574</item>
+        <item>-7.7481037</item>
+        <item>-0.1533344</item>
+        <item>3.1849989</item>
+        <item>-0.7283406</item>
+        <item>-1.254362</item>
+        <item>-4.2052659</item>
+        <item>-4.5283412</item>
+        <item>17.2063328</item>
+        <item>-2.9234516</item>
+        <item>-1.9093519</item>
+        <item>-0.5743016</item>
+    </string-array>
+
+    <string-array name="longitude">
+        <item>95.6168813</item>
+        <item>97.5874143</item>
+        <item>102.7630205</item>
+        <item>104.8333421</item>
+        <item>102.6013186</item>
+        <item>101.0387134</item>
+        <item>99.900156</item>
+        <item>103.7966799</item>
+        <item>96.7915956</item>
+        <item>105.1670207</item>
+        <item>106.1033829</item>
+        <item>105.3445504</item>
+        <item>106.9750904</item>
+        <item>73.3701575</item>
+        <item>110.304976</item>
+        <item>112.4331736</item>
+        <item>116.3125358</item>
+        <item>116.0410828</item>
+        <item>108.9031578</item>
+        <item>113.7401748</item>
+        <item>111.9862856</item>
+        <item>110.8041746</item>
+        <item>80.8908163</item>
+        <item>114.3467361</item>
+        <item>114.5422749</item>
+        <item>117.9941137</item>
+        <item>122.6564953</item>
+        <item>114.3928684</item>
+        <item>120.793737</item>
+        <item>117.7918732</item>
+        <item>71.9282391</item>
+        <item>126.2583813</item>
+        <item>137.4999239</item>
+        <item>133.0739352</item>
+    </string-array>
+</resources>
